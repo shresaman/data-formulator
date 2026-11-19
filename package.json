@@ -40,7 +40,7 @@
         "@fontsource/source-sans-pro": "5.2.5",
         "@js-preview/excel": "1.7.14",
         "@lezer/common": "^1.5.2",
-        "@mui/icons-material": "^7.1.1",
+        "@mui/icons-material": "^9.5.0",
         "@mui/material": "^7.1.1",
         "@mui/system": "^7.3.9",
         "@mui/x-tree-view": "^9.0.1",
